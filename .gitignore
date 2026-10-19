@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Stray file created by the old system("pause > 0") call
+0
